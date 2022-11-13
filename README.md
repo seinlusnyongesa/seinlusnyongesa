@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm seinlus nyongesa</h1>
 <h3 align="center">A passionate web developer from Kenya</h3>
 
-<p align="left"> <a href="https://twitter.com/0x15a" target="blank"><img src="https://img.shields.io/twitter/follow/0x15a?logo=twitter&style=for-the-badge" alt="0x15a" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0x15a" target="_blank"><img src="https://img.shields.io/twitter/follow/0x15a?logo=twitter&style=for-the-badge" alt="0x15a" /></a> </p>
 
 - 📫 How to reach me **seinlusnyongesa@gmail.com**
 
