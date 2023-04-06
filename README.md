@@ -3,9 +3,3 @@
 - 🧠 I am learning ReactJs and Graphql
 - 🤝🏾 am open to collaboration
 - ✉ You can reach me at seinlus044@gmail.com
-
-## my ❤ stack
-- ReactJs
-- ExpressJs
-- NodeJs
-- Prisma
